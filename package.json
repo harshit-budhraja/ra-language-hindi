@@ -1,6 +1,6 @@
 {
   "name": "ra-language-hindi",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Hindi messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "author": "Harshit Budhraja",
   "repository": "harshit-budhraja/ra-language-hindi",
